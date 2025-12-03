@@ -1,0 +1,3 @@
+https://www.wikipedia.org
+https://www.python.org
+https://www.openai.com

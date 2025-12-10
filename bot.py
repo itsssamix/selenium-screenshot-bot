@@ -50,7 +50,7 @@ def main():
 
     #iirar prints atraves de est de repetição
     for url in urls:
-        take_screenshot(driver, url)
+        tirar_screenshot(driver, url)
 
     driver.quit()
     print("\nFinalizado!")
